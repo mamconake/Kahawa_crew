@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179699467764",
+    "project_id": "koke-kahawa-crew",
+    "storage_bucket": "koke-kahawa-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179699467764:android:ed653b9c808f688460e5a1",
+        "android_client_info": {
+          "package_name": "com.korir.kahawa_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179699467764-lp2fbcces6f3hlknv0vai4v5rinddaso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAviYSrJBpnPG_UFVVBefGvnj3DEZDvIeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179699467764-lp2fbcces6f3hlknv0vai4v5rinddaso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
