@@ -1,6 +1,6 @@
 # kahawa_crew
 
-A new Flutter project.
+Flutter project with firebase.
 
 ## Getting Started
 
